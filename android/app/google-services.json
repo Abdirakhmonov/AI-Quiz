@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "23913846527",
+    "project_id": "flutter-musobaqasi",
+    "storage_bucket": "flutter-musobaqasi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:23913846527:android:b6dc0695b759352e30deca",
+        "android_client_info": {
+          "package_name": "com.example.musobaqa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDe9tOiAi5UOq81KCZ-6rd0d2-ADAqZu24"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
